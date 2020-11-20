@@ -1,0 +1,6 @@
+selenium
+time
+openpyxl
+PIL
+os
+requests
